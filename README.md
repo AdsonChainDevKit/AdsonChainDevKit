@@ -25,15 +25,11 @@ List of `awesome README Profile` categories mentioned below
   - [List out `Awesome README Profile` Articles](#list-out-awesome-readme-profile-articles)
   - [Contribute](#contribute)
 
-## Website
 
-Link : https://awesome-github-readme-profile.netlify.app
-
-<a href="https://awesome-github-readme-profile.netlify.app"><img src="https://raw.githubusercontent.com/elangosundar/awesome-README-templates/master/awesome-github-profile.png" alt="Awesome README Templates" /></a>
 
 # List out `Awesome README Profile` Tools
 
-- [Profile Summary For Github](https://profile-summary-for-github.com/search)
+- [Profile Summary For Github](https://profile-summary-for-github.com/searc
 - [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats) - Dynamically generated stats for your github readmes
 - [Profile Activity Generator](https://github.com/omidnikrah/profile-activity-generator) - Generate custom profile activity for your profile README
 - [All Dev Stats in Readme](https://github.com/anmol098/waka-readme-stats) - Are you an early 🐤 or a night 🦉? When are you most productive during the day? What languages you code in? And other stuff... Let's check out in your readme!
