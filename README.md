@@ -1,3 +1,17 @@
+Olá, bem-vindo ao meu GitHub!
+Sou entusiasta e apaixonado por tecnologia, com um foco especial em soluções inovadoras utilizando blockchain e criptomoedas. Aqui, você encontrará projetos que exploram como essas tecnologias podem ser aplicadas para otimizar transações financeiras, aumentar a segurança e viabilizar novas formas de negócios descentralizados.
+
+Acredito no potencial transformador das blockchain e smart contracts para redefinir sistemas financeiros e oferecer alternativas mais transparentes, rápidas e seguras. Além de criptomoedas, também trabalho com automação, desenvolvimento de APIs e sistemas distribuídos.
+
+Sinta-se à vontade para explorar, contribuir e fazer parte dessa jornada tecnológica! 🚀
+
+O que você pode encontrar aqui:
+Projetos relacionados a blockchain e criptomoedas.
+Scripts e APIs para integração de sistemas financeiros com criptos.
+Exemplos de smart contracts e sua implementação.
+Automação de processos usando tecnologias emergentes.
+Se você tem interesse em colaborar ou discutir ideias sobre como melhorar a eficiência de transações e sistemas financeiros usando criptos, não hesite em me contatar ou abrir uma issue!
+
 [contributors-shield]: https://img.shields.io/github/contributors/cyfrin/foundry-full-course-cu.svg?style=for-the-badge
 [contributors-url]: https://github.com/cyfrin/foundry-full-course-cu/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/cyfrin/foundry-full-course-cu.svg?style=for-the-badge
