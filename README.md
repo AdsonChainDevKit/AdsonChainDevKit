@@ -1,4 +1,28 @@
 Olá, bem-vindo ao meu GitHub!
+
+Desenvolvo soluções robustas, escaláveis e de alta performance. Ao longo da minha jornada profissional, venho aprimorando minhas habilidades em programação orientada a objetos, design patterns e desenvolvimento de aplicações Java.
+
+🔧 Tecnologias e Ferramentas:
+
+Java (8, 11, 17)
+Spring Framework (Spring Boot, Spring MVC, Spring Data)
+APIs RESTful e Microserviços
+JPA/Hibernate para integração com banco de dados
+Maven/Gradle para gestão de dependências
+Testes Unitários (JUnit, Mockito)
+SQL e NoSQL (PostgreSQL, MongoDB)
+
+🌱 Minhas Contribuições:
+
+Desenvolvimento de sistemas empresariais com alta disponibilidade e integração entre diferentes plataformas.
+Implementação de APIs RESTful com foco em escalabilidade e segurança.
+Otimização de performance e refatoração de código legado para melhor manutenção e performance.
+
+📈 Visão de Futuro: Busco constantemente me atualizar com as melhores práticas e novas tecnologias. Tenho interesse em me aprofundar em arquitetura de microserviços, cloud computing e DevOps, além de contribuir com equipes ágeis para entregar soluções de alto impacto para os negócios.
+
+💬 Acredito que a colaboração e o aprendizado contínuo são essenciais para o sucesso de qualquer equipe. Estou sempre aberto a novos desafios e oportunidades de crescimento profissional.
+
+📬 Convido você a se conectar e trocar ideias sobre desenvolvimento de software, boas práticas de programação e inovações no mundo Java!
 Sou entusiasta e apaixonado por tecnologia, com um foco especial em soluções inovadoras utilizando blockchain e criptomoedas. Aqui, você encontrará projetos que exploram como essas tecnologias podem ser aplicadas para otimizar transações financeiras, aumentar a segurança e viabilizar novas formas de negócios descentralizados.
 
 Acredito no potencial transformador das blockchain e smart contracts para redefinir sistemas financeiros e oferecer alternativas mais transparentes, rápidas e seguras. Além de criptomoedas, também trabalho com automação, desenvolvimento de APIs e sistemas distribuídos.
